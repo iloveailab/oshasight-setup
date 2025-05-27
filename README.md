@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Six independent detectors** (Mask, Gloves, Helmet, Goggles, Hi-Viz Vest, Smoke)
 - **Real-time overlays & alerts** (< 50 ms/frame, 100 FPS on GTX 1660 Ti; 31 FPS on Jetson Orin Nano)
